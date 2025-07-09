@@ -1,4 +1,4 @@
-# amazon-crawler
+# Amazon-Crawler
 A simple Amazon web crawler implemented using Python
 
 利用 Python 简单实现的 Amazon 爬虫小程序
